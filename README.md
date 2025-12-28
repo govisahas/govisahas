@@ -1,5 +1,7 @@
 # Hi 👋, I'm Sahsrika
-![Animated](https://app.lottiefiles.com/share/b620f434-8ad3-423a-be11-399131952558)
+
+![Animation](animation.gif)
+
 
 💻 Software Developer & QA Engineer  
 🎓 BSc (Hons) Software Engineering – First Class (UCSC)  
